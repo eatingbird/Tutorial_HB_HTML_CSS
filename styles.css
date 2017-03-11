@@ -1,0 +1,10 @@
+input{
+    background-color: yellow;
+}
+.bold{
+    font-style: bold;
+}
+#box{
+    border-width: 1px;
+    border-color: blue;
+}
