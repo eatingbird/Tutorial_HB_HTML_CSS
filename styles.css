@@ -1,10 +1,16 @@
-input{
+input {
     background-color: yellow;
 }
-.bold{
-    font-style: bold;
+
+.thick {
+    font-weight: bold;
 }
-#box{
-    border-width: 1px;
-    border-color: blue;
+
+p {
+    width: 200px;
 }
+
+.box{
+    border: 1px solid black;
+}
+
